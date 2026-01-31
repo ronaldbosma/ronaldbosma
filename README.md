@@ -12,4 +12,4 @@ I'm a software engineer and architect from the Netherlands and I'm interested in
 
 ## Stats
 
-![Ronald's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronaldbosma)
+![Ronald's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ronaldbosma&theme=github_dark)
