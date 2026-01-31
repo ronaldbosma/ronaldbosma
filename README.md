@@ -1,4 +1,4 @@
-# Hi! :wave:, I'm Ronald Bosma
+# Hi! :wave:, I'm Ronald
 
 I'm a software engineer and architect from the Netherlands and I'm interested in Azure, Bicep, architecture, test automation and CI/CD.
 
