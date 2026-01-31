@@ -1,9 +1,9 @@
 # Hi! :wave:, I'm Ronald Bosma
 
-I'm a software engineer and architect from the Netherlands :netherlands:, and I'm interested in Azure, Bicep, architecture, test automation and CI/CD.
+I'm a software engineer and architect from the Netherlands and I'm interested in Azure, Bicep, architecture, test automation and CI/CD.
 
 - I blog at [https://ronaldbosma.github.io/blog](https://ronaldbosma.github.io/blog)
-- You can find my on LinkedIn at [https://www.linkedin.com/in/ronald-bosma/](https://www.linkedin.com/in/ronald-bosma/)
+- You can find my on LinkedIn at [https://www.linkedin.com/in/ronald-bosma](https://www.linkedin.com/in/ronald-bosma/)
 
 ## Resources
 
