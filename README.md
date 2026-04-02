@@ -4,7 +4,7 @@ I'm a software engineer and architect from the Netherlands and I'm interested in
 
 - I blog at [https://ronaldbosma.github.io/blog](https://ronaldbosma.github.io/blog)
 - You can find me on LinkedIn at [https://www.linkedin.com/in/ronald-bosma](https://www.linkedin.com/in/ronald-bosma/)
-- I'm a Microsoft Azure MVP  
+- I'm a Microsoft MVP  
   [![MVP Badge](./MVP_Badge_Horizontal_Preferred_Blue3005_RGB.jpg)](https://mvp.microsoft.com/en-US/MVP/profile/427fcf4a-8541-472d-8346-58ad4cd9b40d)
 ## Resources
 
